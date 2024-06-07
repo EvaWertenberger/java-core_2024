@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><university>
+    <lesson>
+        <name>Линейная алгебра</name>
+        <lecturer>Л.Н. Иванов</lecturer>
+        <classroom>И-213</classroom>
+    </lesson>
+    
+<lesson>
+    <name>Машинное обучение</name>
+    <lecturer>А.Ю. Петров</lecturer>
+    <classroom>И-103</classroom>
+</lesson>
+</university>
